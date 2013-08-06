@@ -1,7 +1,7 @@
 # Stackreduce Javascript API Wrapper
 
-Stackreduce gem its a Javscript API Wrapper for [Stackreduce.com](http://www.stackreduce.com/)
-A simple solutions for pushing your data from your rails app
+Stackreduce its a Javscript API Wrapper for [Stackreduce.com](http://www.stackreduce.com/)
+A simple solutions for pushing your data!
 
 ## Getting started
 Define you applications settings
