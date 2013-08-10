@@ -23,7 +23,9 @@ if (typeof jQuery == 'undefined') {
         head.appendChild(script);
     };
 
-    getScript('http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js', function() {
+    // getScript('http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js', function() {
+	getScript('https://raw.github.com/stackreduce/stackreduce-js/master/jquery_custom_build.js', function() {
+		
 		console.log("Loaded")
     });
 } 
